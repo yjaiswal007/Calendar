@@ -11,5 +11,8 @@ It generates all calendar for years between start_year and end_year (both inclus
 
 In case single page calendar (of a specific year) is needed then start_year and end_year should be same.
 
+Output:
+It creates pdf file containing calendar(s) in 'Output' folder
+
 Limitation:
 1) It works for only AD calendar years
